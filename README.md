@@ -18,5 +18,3 @@ A databse design that manages the member records like personal information, paym
 2. Gym Members Management
 3. Payment Management
 4. Trainers Management
-
-### E-R Model for the database design
